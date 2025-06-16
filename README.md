@@ -1,10 +1,10 @@
-# 📝 React Todo App
+# 📝 React Todo App (NoteNDone)
 
 ## 🎯 Project Overview  
 A simple and elegant Todo List application built with React and Tailwind CSS. Users can add, edit, delete, and mark todos as complete. It includes a convenient filter dropdown to view All, Active, or Completed tasks. Todos are saved in localStorage for persistence.
 
 ## 🚀 Live Demo  
-[Try the App Here](#)  
+[https://notendone.netlify.app/](#)  
 
 ## 🛠 Technologies Used  
 - React  
